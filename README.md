@@ -2,7 +2,9 @@
 
 We are in **[CIS Team](https://cisteam.org/)** introduce to you the best road to help you to learn Android Track **by Java Programming Language**
 
-![cis logo](./images/logo.png)
+<p align="center">
+  <img src="images/logo.png" alt="CIS logo" />
+</p>
 
 Android :is a [mobile operating system](https://en.wikipedia.org/wiki/Mobile_operating_system) **based on a modified version of the** [**Linux kernel**](https://en.wikipedia.org/wiki/Linux_kernel 'Linux kernel') and other [open source](https://en.wikipedia.org/wiki/Open-source_software 'Open-source software') software, designed primarily for [**touchscreen**](https://en.wikipedia.org/wiki/Touchscreen 'Touchscreen') mobile devices such as [**smartphones**](https://en.wikipedia.org/wiki/Smartphone 'Smartphone') and [**tablets**](https://en.wikipedia.org/wiki/Tablet_computer 'Tablet computer')**.**
 
@@ -34,7 +36,7 @@ Android :is a [mobile operating system](https://en.wikipedia.org/wiki/Mobile_ope
 
 # Level 0:
 
-![java logo](./images/java.jpeg)
+![java logo](./images/java.jpg)
 
 **Java** is a [high-level](https://en.wikipedia.org/wiki/High-level_programming_language 'High-level programming language'), [class-based](https://en.wikipedia.org/wiki/Class-based_programming 'Class-based programming'), [object-oriented](https://en.wikipedia.org/wiki/Object-oriented_programming 'Object-oriented programming') [programming language](https://en.wikipedia.org/wiki/Programming_language 'Programming language') that is designed to have as few implementation [dependencies](<https://en.wikipedia.org/wiki/Dependency_(computer_science)> 'Dependency (computer science)') as possible. It is a [general-purpose](https://en.wikipedia.org/wiki/General-purpose_language 'General-purpose language') programming language intended to let [application developers](https://en.wikipedia.org/wiki/Application_developer) _write once._
 
